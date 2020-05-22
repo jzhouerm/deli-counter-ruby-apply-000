@@ -25,3 +25,7 @@ def now_serving(katz_deli)
   end
 end
 
+# katz_deli = ["Amy", "Bob", "Chris", "Dave"]
+# line (katz_deli)
+# take_a_number(katz_deli, "Eric")
+# now_serving(katz_deli)
